@@ -1,4 +1,4 @@
 demo
 hello! lavanya here 
 learning git and github
-learning to clone , check status, coomit, push.
+learning to clone , check status, commit, push.
